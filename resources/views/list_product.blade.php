@@ -15,10 +15,9 @@
             <tr>
                 <td>{{ $post['id'] }}</td>
                 <td>{{ $post['produk']}}</td>
-                <!-- Data lainnya -->
             </tr>
         @endforeach
         </tbody>
     </table>
-@endsection 
+@endsection
 
